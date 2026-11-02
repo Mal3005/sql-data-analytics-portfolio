@@ -38,6 +38,7 @@ Analysis of website traffic and user behaviour using SQL.
 **Project Files:**
 
 [View SQL Analysis](01-website-acquisition-analysis/website_acquisition_analysis.sql)
+[View Project Insights](01-website-acquisition-analysis/PROJECT_INSIGHTS.md)
 
 ## About Me
 
