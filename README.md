@@ -41,6 +41,10 @@ Analysis of website traffic and user behaviour using SQL.
 
 [View Project Insights](01-website-acquisition-analysis/PROJECT_INSIGHTS.md)
 
+[View Excel Dashboard](01-website-acquisition-analysis/website_acquisition_dashboard_final.xlsx)
+
+[View Dashboard PDF](01-website-acquisition-analysis/website_acquisition_dashboard_final.pdf)
+
 ## About Me
 
 I am building my career in Data Analytics and continuously developing my technical and analytical skills through hands-on projects.
